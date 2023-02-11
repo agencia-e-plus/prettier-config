@@ -1,0 +1,23 @@
+{
+	"name": "@pluslab/prettier-config",
+	"version": "1.0.0",
+	"description": "e-Plus Agency shared prettier config",
+	"publishConfig": {
+		"access": "public"
+	},
+	"homepage": "https://github.com/vtex/typescript",
+	"repository": {
+		"url": "agencia-e-plus/prettier-config"
+	},
+	"contributors": [
+		"Bruno Rodrigues <bruno@agenciaeplus.com.br>"
+	],
+	"license": "MIT",
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+	"peerDependencies": {
+		"prettier": "^2.4.0"
+	}
+}
